@@ -1,4 +1,4 @@
-# 4heatlh
+# 4health
 
 - Projeto feito para cunho educativo, voltado para produção de uma prova de 
 conceito, que visa o apoio a medicina em locais precarios.
@@ -9,7 +9,7 @@ conceito, que visa o apoio a medicina em locais precarios.
   - Diogo Costa: @Dcmaran 
   - Filipe Moreno: @MoonHawlk
   - Gabriel Costa: @gcosta2107
-  - Lucas Barros: 
+  - Lucas Barros: @LucasLBarros
   - Marcelo Silvestre: 
   - Pedro Xavier:
 
